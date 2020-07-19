@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Orinayo Oyelade",
+        "age": "25",
+        "height": "185",
+        "gender": "male",
+        "hair_color": "black"
+    },
+    {
+        "name": "Ashton Nikolaus",
+        "age": "38",
+        "height": "192",
+        "gender": "male",
+        "hair_color": "auburn"
+    },
+    {
+        "name": "Cordelia Wiegand",
+        "age": "33",
+        "height": "153",
+        "gender": "female",
+        "hair_color": "brown"
+    }
+]
